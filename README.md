@@ -1,4 +1,5 @@
-# Arnav Katyal's ShopSmart Memory Agent
+# ShopSmart Memory Agent
+a rag product 
 
 > A personal retrieval-augmented generation (RAG) project by **Arnav Katyal**.
 
