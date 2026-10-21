@@ -1,6 +1,4 @@
 # ShopSmart Memory Agent
-a rag product 
-
 > A personal retrieval-augmented generation (RAG) project by **Arnav Katyal**.
 
 This project is a lightweight AI store assistant for a fictional e-commerce brand called ShopSmart. It retrieves relevant information from a local knowledge base before asking a language model to answer, so responses stay grounded in the supplied store data.
